@@ -1,15 +1,14 @@
 """Classificador de países por prioridade de ajuda.
 
 Inteligência Artificial · Unidade III · UNIFSA · Engenharia de Software · 2026.2
-Autor(a): Thayanne Oliveira Silva
 """
 import altair as alt
 import joblib
 import pandas as pd
 import streamlit as st
 
-AUTOR = "SEU NOME AQUI"          # <-- troque pelo seu nome
-DATA_TREINO = "DD/MM/AAAA"       # <-- data em que o modelo foi treinado
+AUTOR =Thayanne Oliveira Silva     
+DATA_TREINO = 12/11/2026 
 
 # 1. Configuração da página
 st.set_page_config(page_title="Classificação de países", layout="centered")
